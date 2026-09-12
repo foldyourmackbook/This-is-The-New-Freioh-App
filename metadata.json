@@ -1,0 +1,6 @@
+{
+  "name": "Freioh",
+  "description": "Short-form video social network with personalized feed, video editor, stories, and E2EE encrypted chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
